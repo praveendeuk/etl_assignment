@@ -1,4 +1,4 @@
-# Senior Data Engineer
+# Problem Statement
 
 The take home coding challenge for a Senior Data Engineer should assess their
 knowledge on various Data Engineering related concepts as well as the
